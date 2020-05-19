@@ -1,0 +1,401 @@
+C:\Users\user\Documents\Visual Studio 2017\Projects\Clinic\Clinic\bin\ApplicationInsights.config
+C:\Users\user\Documents\Visual Studio 2017\Projects\Clinic\Clinic\bin\Clinic.dll.config
+C:\Users\user\Documents\Visual Studio 2017\Projects\Clinic\Clinic\bin\Clinic.dll
+C:\Users\user\Documents\Visual Studio 2017\Projects\Clinic\Clinic\bin\Clinic.pdb
+C:\Users\user\Documents\Visual Studio 2017\Projects\Clinic\Clinic\bin\roslyn\csc.exe
+C:\Users\user\Documents\Visual Studio 2017\Projects\Clinic\Clinic\bin\roslyn\csc.exe.config
+C:\Users\user\Documents\Visual Studio 2017\Projects\Clinic\Clinic\bin\roslyn\csc.rsp
+C:\Users\user\Documents\Visual Studio 2017\Projects\Clinic\Clinic\bin\roslyn\csi.exe
+C:\Users\user\Documents\Visual Studio 2017\Projects\Clinic\Clinic\bin\roslyn\csi.exe.config
+C:\Users\user\Documents\Visual Studio 2017\Projects\Clinic\Clinic\bin\roslyn\csi.rsp
+C:\Users\user\Documents\Visual Studio 2017\Projects\Clinic\Clinic\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\user\Documents\Visual Studio 2017\Projects\Clinic\Clinic\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\user\Documents\Visual Studio 2017\Projects\Clinic\Clinic\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\user\Documents\Visual Studio 2017\Projects\Clinic\Clinic\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\user\Documents\Visual Studio 2017\Projects\Clinic\Clinic\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\user\Documents\Visual Studio 2017\Projects\Clinic\Clinic\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\user\Documents\Visual Studio 2017\Projects\Clinic\Clinic\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\user\Documents\Visual Studio 2017\Projects\Clinic\Clinic\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\user\Documents\Visual Studio 2017\Projects\Clinic\Clinic\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\user\Documents\Visual Studio 2017\Projects\Clinic\Clinic\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\user\Documents\Visual Studio 2017\Projects\Clinic\Clinic\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\user\Documents\Visual Studio 2017\Projects\Clinic\Clinic\bin\roslyn\System.AppContext.dll
+C:\Users\user\Documents\Visual Studio 2017\Projects\Clinic\Clinic\bin\roslyn\System.Console.dll
+C:\Users\user\Documents\Visual Studio 2017\Projects\Clinic\Clinic\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\user\Documents\Visual Studio 2017\Projects\Clinic\Clinic\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\user\Documents\Visual Studio 2017\Projects\Clinic\Clinic\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\user\Documents\Visual Studio 2017\Projects\Clinic\Clinic\bin\roslyn\System.IO.Compression.dll
+C:\Users\user\Documents\Visual Studio 2017\Projects\Clinic\Clinic\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\user\Documents\Visual Studio 2017\Projects\Clinic\Clinic\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\user\Documents\Visual Studio 2017\Projects\Clinic\Clinic\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\user\Documents\Visual Studio 2017\Projects\Clinic\Clinic\bin\roslyn\System.IO.Pipes.dll
+C:\Users\user\Documents\Visual Studio 2017\Projects\Clinic\Clinic\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\user\Documents\Visual Studio 2017\Projects\Clinic\Clinic\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\user\Documents\Visual Studio 2017\Projects\Clinic\Clinic\bin\roslyn\System.Security.Claims.dll
+C:\Users\user\Documents\Visual Studio 2017\Projects\Clinic\Clinic\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\user\Documents\Visual Studio 2017\Projects\Clinic\Clinic\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\user\Documents\Visual Studio 2017\Projects\Clinic\Clinic\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\user\Documents\Visual Studio 2017\Projects\Clinic\Clinic\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\user\Documents\Visual Studio 2017\Projects\Clinic\Clinic\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\user\Documents\Visual Studio 2017\Projects\Clinic\Clinic\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\user\Documents\Visual Studio 2017\Projects\Clinic\Clinic\bin\roslyn\System.Threading.Thread.dll
+C:\Users\user\Documents\Visual Studio 2017\Projects\Clinic\Clinic\bin\roslyn\System.ValueTuple.dll
+C:\Users\user\Documents\Visual Studio 2017\Projects\Clinic\Clinic\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\user\Documents\Visual Studio 2017\Projects\Clinic\Clinic\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\user\Documents\Visual Studio 2017\Projects\Clinic\Clinic\bin\roslyn\System.Xml.XPath.dll
+C:\Users\user\Documents\Visual Studio 2017\Projects\Clinic\Clinic\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\user\Documents\Visual Studio 2017\Projects\Clinic\Clinic\bin\roslyn\vbc.exe
+C:\Users\user\Documents\Visual Studio 2017\Projects\Clinic\Clinic\bin\roslyn\vbc.exe.config
+C:\Users\user\Documents\Visual Studio 2017\Projects\Clinic\Clinic\bin\roslyn\vbc.rsp
+C:\Users\user\Documents\Visual Studio 2017\Projects\Clinic\Clinic\bin\roslyn\VBCSCompiler.exe
+C:\Users\user\Documents\Visual Studio 2017\Projects\Clinic\Clinic\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\user\Documents\Visual Studio 2017\Projects\Clinic\Clinic\bin\Antlr3.Runtime.dll
+C:\Users\user\Documents\Visual Studio 2017\Projects\Clinic\Clinic\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\user\Documents\Visual Studio 2017\Projects\Clinic\Clinic\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\user\Documents\Visual Studio 2017\Projects\Clinic\Clinic\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\user\Documents\Visual Studio 2017\Projects\Clinic\Clinic\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\user\Documents\Visual Studio 2017\Projects\Clinic\Clinic\bin\Microsoft.AI.Web.dll
+C:\Users\user\Documents\Visual Studio 2017\Projects\Clinic\Clinic\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\user\Documents\Visual Studio 2017\Projects\Clinic\Clinic\bin\Microsoft.ApplicationInsights.dll
+C:\Users\user\Documents\Visual Studio 2017\Projects\Clinic\Clinic\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\user\Documents\Visual Studio 2017\Projects\Clinic\Clinic\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\user\Documents\Visual Studio 2017\Projects\Clinic\Clinic\bin\Newtonsoft.Json.dll
+C:\Users\user\Documents\Visual Studio 2017\Projects\Clinic\Clinic\bin\System.Web.Helpers.dll
+C:\Users\user\Documents\Visual Studio 2017\Projects\Clinic\Clinic\bin\System.Web.Mvc.dll
+C:\Users\user\Documents\Visual Studio 2017\Projects\Clinic\Clinic\bin\System.Web.Optimization.dll
+C:\Users\user\Documents\Visual Studio 2017\Projects\Clinic\Clinic\bin\System.Web.Razor.dll
+C:\Users\user\Documents\Visual Studio 2017\Projects\Clinic\Clinic\bin\System.Web.WebPages.Deployment.dll
+C:\Users\user\Documents\Visual Studio 2017\Projects\Clinic\Clinic\bin\System.Web.WebPages.dll
+C:\Users\user\Documents\Visual Studio 2017\Projects\Clinic\Clinic\bin\System.Web.WebPages.Razor.dll
+C:\Users\user\Documents\Visual Studio 2017\Projects\Clinic\Clinic\bin\WebGrease.dll
+C:\Users\user\Documents\Visual Studio 2017\Projects\Clinic\Clinic\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\user\Documents\Visual Studio 2017\Projects\Clinic\Clinic\bin\System.Web.Helpers.xml
+C:\Users\user\Documents\Visual Studio 2017\Projects\Clinic\Clinic\bin\System.Web.Mvc.xml
+C:\Users\user\Documents\Visual Studio 2017\Projects\Clinic\Clinic\bin\System.Web.Optimization.xml
+C:\Users\user\Documents\Visual Studio 2017\Projects\Clinic\Clinic\bin\System.Web.Razor.xml
+C:\Users\user\Documents\Visual Studio 2017\Projects\Clinic\Clinic\bin\System.Web.WebPages.xml
+C:\Users\user\Documents\Visual Studio 2017\Projects\Clinic\Clinic\bin\System.Web.WebPages.Deployment.xml
+C:\Users\user\Documents\Visual Studio 2017\Projects\Clinic\Clinic\bin\System.Web.WebPages.Razor.xml
+C:\Users\user\Documents\Visual Studio 2017\Projects\Clinic\Clinic\bin\Antlr3.Runtime.pdb
+C:\Users\user\Documents\Visual Studio 2017\Projects\Clinic\Clinic\bin\Newtonsoft.Json.xml
+C:\Users\user\Documents\Visual Studio 2017\Projects\Clinic\Clinic\bin\Microsoft.ApplicationInsights.xml
+C:\Users\user\Documents\Visual Studio 2017\Projects\Clinic\Clinic\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\user\Documents\Visual Studio 2017\Projects\Clinic\Clinic\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\user\Documents\Visual Studio 2017\Projects\Clinic\Clinic\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\user\Documents\Visual Studio 2017\Projects\Clinic\Clinic\bin\Microsoft.AI.Web.xml
+C:\Users\user\Documents\Visual Studio 2017\Projects\Clinic\Clinic\bin\ru\System.Web.Helpers.resources.dll
+C:\Users\user\Documents\Visual Studio 2017\Projects\Clinic\Clinic\bin\ru\System.Web.Mvc.resources.dll
+C:\Users\user\Documents\Visual Studio 2017\Projects\Clinic\Clinic\bin\ru\System.Web.Optimization.resources.dll
+C:\Users\user\Documents\Visual Studio 2017\Projects\Clinic\Clinic\bin\ru\System.Web.Razor.resources.dll
+C:\Users\user\Documents\Visual Studio 2017\Projects\Clinic\Clinic\bin\ru\System.Web.WebPages.resources.dll
+C:\Users\user\Documents\Visual Studio 2017\Projects\Clinic\Clinic\bin\ru\System.Web.WebPages.Deployment.resources.dll
+C:\Users\user\Documents\Visual Studio 2017\Projects\Clinic\Clinic\bin\ru\System.Web.WebPages.Razor.resources.dll
+C:\Users\user\Documents\Visual Studio 2017\Projects\Clinic\Clinic\obj\Debug\Clinic.csprojResolveAssemblyReference.cache
+C:\Users\user\Documents\Visual Studio 2017\Projects\Clinic\Clinic\obj\Debug\Clinic.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\Visual Studio 2017\Projects\Clinic\Clinic\obj\Debug\Clinic.csproj.CopyComplete
+C:\Users\user\Documents\Visual Studio 2017\Projects\Clinic\Clinic\obj\Debug\Clinic.dll
+C:\Users\user\Documents\Visual Studio 2017\Projects\Clinic\Clinic\obj\Debug\Clinic.pdb
+C:\Users\user\Documents\Visual Studio 2017\Projects\Clinic\Clinic\bin\Microsoft.Win32.Primitives.dll
+C:\Users\user\Documents\Visual Studio 2017\Projects\Clinic\Clinic\bin\netstandard.dll
+C:\Users\user\Documents\Visual Studio 2017\Projects\Clinic\Clinic\bin\System.AppContext.dll
+C:\Users\user\Documents\Visual Studio 2017\Projects\Clinic\Clinic\bin\System.Collections.Concurrent.dll
+C:\Users\user\Documents\Visual Studio 2017\Projects\Clinic\Clinic\bin\System.Collections.dll
+C:\Users\user\Documents\Visual Studio 2017\Projects\Clinic\Clinic\bin\System.Collections.NonGeneric.dll
+C:\Users\user\Documents\Visual Studio 2017\Projects\Clinic\Clinic\bin\System.Collections.Specialized.dll
+C:\Users\user\Documents\Visual Studio 2017\Projects\Clinic\Clinic\bin\System.ComponentModel.dll
+C:\Users\user\Documents\Visual Studio 2017\Projects\Clinic\Clinic\bin\System.ComponentModel.EventBasedAsync.dll
+C:\Users\user\Documents\Visual Studio 2017\Projects\Clinic\Clinic\bin\System.ComponentModel.Primitives.dll
+C:\Users\user\Documents\Visual Studio 2017\Projects\Clinic\Clinic\bin\System.ComponentModel.TypeConverter.dll
+C:\Users\user\Documents\Visual Studio 2017\Projects\Clinic\Clinic\bin\System.Console.dll
+C:\Users\user\Documents\Visual Studio 2017\Projects\Clinic\Clinic\bin\System.Data.Common.dll
+C:\Users\user\Documents\Visual Studio 2017\Projects\Clinic\Clinic\bin\System.Diagnostics.Contracts.dll
+C:\Users\user\Documents\Visual Studio 2017\Projects\Clinic\Clinic\bin\System.Diagnostics.Debug.dll
+C:\Users\user\Documents\Visual Studio 2017\Projects\Clinic\Clinic\bin\System.Diagnostics.FileVersionInfo.dll
+C:\Users\user\Documents\Visual Studio 2017\Projects\Clinic\Clinic\bin\System.Diagnostics.Process.dll
+C:\Users\user\Documents\Visual Studio 2017\Projects\Clinic\Clinic\bin\System.Diagnostics.StackTrace.dll
+C:\Users\user\Documents\Visual Studio 2017\Projects\Clinic\Clinic\bin\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\user\Documents\Visual Studio 2017\Projects\Clinic\Clinic\bin\System.Diagnostics.Tools.dll
+C:\Users\user\Documents\Visual Studio 2017\Projects\Clinic\Clinic\bin\System.Diagnostics.TraceSource.dll
+C:\Users\user\Documents\Visual Studio 2017\Projects\Clinic\Clinic\bin\System.Diagnostics.Tracing.dll
+C:\Users\user\Documents\Visual Studio 2017\Projects\Clinic\Clinic\bin\System.Drawing.Primitives.dll
+C:\Users\user\Documents\Visual Studio 2017\Projects\Clinic\Clinic\bin\System.Dynamic.Runtime.dll
+C:\Users\user\Documents\Visual Studio 2017\Projects\Clinic\Clinic\bin\System.Globalization.Calendars.dll
+C:\Users\user\Documents\Visual Studio 2017\Projects\Clinic\Clinic\bin\System.Globalization.dll
+C:\Users\user\Documents\Visual Studio 2017\Projects\Clinic\Clinic\bin\System.Globalization.Extensions.dll
+C:\Users\user\Documents\Visual Studio 2017\Projects\Clinic\Clinic\bin\System.IO.Compression.dll
+C:\Users\user\Documents\Visual Studio 2017\Projects\Clinic\Clinic\bin\System.IO.Compression.ZipFile.dll
+C:\Users\user\Documents\Visual Studio 2017\Projects\Clinic\Clinic\bin\System.IO.dll
+C:\Users\user\Documents\Visual Studio 2017\Projects\Clinic\Clinic\bin\System.IO.FileSystem.dll
+C:\Users\user\Documents\Visual Studio 2017\Projects\Clinic\Clinic\bin\System.IO.FileSystem.DriveInfo.dll
+C:\Users\user\Documents\Visual Studio 2017\Projects\Clinic\Clinic\bin\System.IO.FileSystem.Primitives.dll
+C:\Users\user\Documents\Visual Studio 2017\Projects\Clinic\Clinic\bin\System.IO.FileSystem.Watcher.dll
+C:\Users\user\Documents\Visual Studio 2017\Projects\Clinic\Clinic\bin\System.IO.IsolatedStorage.dll
+C:\Users\user\Documents\Visual Studio 2017\Projects\Clinic\Clinic\bin\System.IO.MemoryMappedFiles.dll
+C:\Users\user\Documents\Visual Studio 2017\Projects\Clinic\Clinic\bin\System.IO.Pipes.dll
+C:\Users\user\Documents\Visual Studio 2017\Projects\Clinic\Clinic\bin\System.IO.UnmanagedMemoryStream.dll
+C:\Users\user\Documents\Visual Studio 2017\Projects\Clinic\Clinic\bin\System.Linq.dll
+C:\Users\user\Documents\Visual Studio 2017\Projects\Clinic\Clinic\bin\System.Linq.Expressions.dll
+C:\Users\user\Documents\Visual Studio 2017\Projects\Clinic\Clinic\bin\System.Linq.Parallel.dll
+C:\Users\user\Documents\Visual Studio 2017\Projects\Clinic\Clinic\bin\System.Linq.Queryable.dll
+C:\Users\user\Documents\Visual Studio 2017\Projects\Clinic\Clinic\bin\System.Net.Http.dll
+C:\Users\user\Documents\Visual Studio 2017\Projects\Clinic\Clinic\bin\System.Net.NameResolution.dll
+C:\Users\user\Documents\Visual Studio 2017\Projects\Clinic\Clinic\bin\System.Net.NetworkInformation.dll
+C:\Users\user\Documents\Visual Studio 2017\Projects\Clinic\Clinic\bin\System.Net.Ping.dll
+C:\Users\user\Documents\Visual Studio 2017\Projects\Clinic\Clinic\bin\System.Net.Primitives.dll
+C:\Users\user\Documents\Visual Studio 2017\Projects\Clinic\Clinic\bin\System.Net.Requests.dll
+C:\Users\user\Documents\Visual Studio 2017\Projects\Clinic\Clinic\bin\System.Net.Security.dll
+C:\Users\user\Documents\Visual Studio 2017\Projects\Clinic\Clinic\bin\System.Net.Sockets.dll
+C:\Users\user\Documents\Visual Studio 2017\Projects\Clinic\Clinic\bin\System.Net.WebHeaderCollection.dll
+C:\Users\user\Documents\Visual Studio 2017\Projects\Clinic\Clinic\bin\System.Net.WebSockets.Client.dll
+C:\Users\user\Documents\Visual Studio 2017\Projects\Clinic\Clinic\bin\System.Net.WebSockets.dll
+C:\Users\user\Documents\Visual Studio 2017\Projects\Clinic\Clinic\bin\System.ObjectModel.dll
+C:\Users\user\Documents\Visual Studio 2017\Projects\Clinic\Clinic\bin\System.Reflection.dll
+C:\Users\user\Documents\Visual Studio 2017\Projects\Clinic\Clinic\bin\System.Reflection.Extensions.dll
+C:\Users\user\Documents\Visual Studio 2017\Projects\Clinic\Clinic\bin\System.Reflection.Primitives.dll
+C:\Users\user\Documents\Visual Studio 2017\Projects\Clinic\Clinic\bin\System.Resources.Reader.dll
+C:\Users\user\Documents\Visual Studio 2017\Projects\Clinic\Clinic\bin\System.Resources.ResourceManager.dll
+C:\Users\user\Documents\Visual Studio 2017\Projects\Clinic\Clinic\bin\System.Resources.Writer.dll
+C:\Users\user\Documents\Visual Studio 2017\Projects\Clinic\Clinic\bin\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\user\Documents\Visual Studio 2017\Projects\Clinic\Clinic\bin\System.Runtime.dll
+C:\Users\user\Documents\Visual Studio 2017\Projects\Clinic\Clinic\bin\System.Runtime.Extensions.dll
+C:\Users\user\Documents\Visual Studio 2017\Projects\Clinic\Clinic\bin\System.Runtime.Handles.dll
+C:\Users\user\Documents\Visual Studio 2017\Projects\Clinic\Clinic\bin\System.Runtime.InteropServices.dll
+C:\Users\user\Documents\Visual Studio 2017\Projects\Clinic\Clinic\bin\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\user\Documents\Visual Studio 2017\Projects\Clinic\Clinic\bin\System.Runtime.Numerics.dll
+C:\Users\user\Documents\Visual Studio 2017\Projects\Clinic\Clinic\bin\System.Runtime.Serialization.Formatters.dll
+C:\Users\user\Documents\Visual Studio 2017\Projects\Clinic\Clinic\bin\System.Runtime.Serialization.Json.dll
+C:\Users\user\Documents\Visual Studio 2017\Projects\Clinic\Clinic\bin\System.Runtime.Serialization.Primitives.dll
+C:\Users\user\Documents\Visual Studio 2017\Projects\Clinic\Clinic\bin\System.Runtime.Serialization.Xml.dll
+C:\Users\user\Documents\Visual Studio 2017\Projects\Clinic\Clinic\bin\System.Security.Claims.dll
+C:\Users\user\Documents\Visual Studio 2017\Projects\Clinic\Clinic\bin\System.Security.Cryptography.Algorithms.dll
+C:\Users\user\Documents\Visual Studio 2017\Projects\Clinic\Clinic\bin\System.Security.Cryptography.Csp.dll
+C:\Users\user\Documents\Visual Studio 2017\Projects\Clinic\Clinic\bin\System.Security.Cryptography.Encoding.dll
+C:\Users\user\Documents\Visual Studio 2017\Projects\Clinic\Clinic\bin\System.Security.Cryptography.Primitives.dll
+C:\Users\user\Documents\Visual Studio 2017\Projects\Clinic\Clinic\bin\System.Security.Cryptography.X509Certificates.dll
+C:\Users\user\Documents\Visual Studio 2017\Projects\Clinic\Clinic\bin\System.Security.Principal.dll
+C:\Users\user\Documents\Visual Studio 2017\Projects\Clinic\Clinic\bin\System.Security.SecureString.dll
+C:\Users\user\Documents\Visual Studio 2017\Projects\Clinic\Clinic\bin\System.Text.Encoding.dll
+C:\Users\user\Documents\Visual Studio 2017\Projects\Clinic\Clinic\bin\System.Text.Encoding.Extensions.dll
+C:\Users\user\Documents\Visual Studio 2017\Projects\Clinic\Clinic\bin\System.Text.RegularExpressions.dll
+C:\Users\user\Documents\Visual Studio 2017\Projects\Clinic\Clinic\bin\System.Threading.dll
+C:\Users\user\Documents\Visual Studio 2017\Projects\Clinic\Clinic\bin\System.Threading.Overlapped.dll
+C:\Users\user\Documents\Visual Studio 2017\Projects\Clinic\Clinic\bin\System.Threading.Tasks.dll
+C:\Users\user\Documents\Visual Studio 2017\Projects\Clinic\Clinic\bin\System.Threading.Tasks.Parallel.dll
+C:\Users\user\Documents\Visual Studio 2017\Projects\Clinic\Clinic\bin\System.Threading.Thread.dll
+C:\Users\user\Documents\Visual Studio 2017\Projects\Clinic\Clinic\bin\System.Threading.ThreadPool.dll
+C:\Users\user\Documents\Visual Studio 2017\Projects\Clinic\Clinic\bin\System.Threading.Timer.dll
+C:\Users\user\Documents\Visual Studio 2017\Projects\Clinic\Clinic\bin\System.ValueTuple.dll
+C:\Users\user\Documents\Visual Studio 2017\Projects\Clinic\Clinic\bin\System.Xml.ReaderWriter.dll
+C:\Users\user\Documents\Visual Studio 2017\Projects\Clinic\Clinic\bin\System.Xml.XDocument.dll
+C:\Users\user\Documents\Visual Studio 2017\Projects\Clinic\Clinic\bin\System.Xml.XmlDocument.dll
+C:\Users\user\Documents\Visual Studio 2017\Projects\Clinic\Clinic\bin\System.Xml.XmlSerializer.dll
+C:\Users\user\Documents\Visual Studio 2017\Projects\Clinic\Clinic\bin\System.Xml.XPath.dll
+C:\Users\user\Documents\Visual Studio 2017\Projects\Clinic\Clinic\bin\System.Xml.XPath.XDocument.dll
+C:\Users\user\Documents\Visual Studio 2017\Projects\Clinic\Clinic\bin\ClinicStorage.dll
+C:\Users\user\Documents\Visual Studio 2017\Projects\Clinic\Clinic\bin\ClinicStorage.pdb
+C:\Users\user\Documents\Visual Studio 2017\Projects\Clinic\Clinic\bin\EntityFramework.dll
+C:\Users\user\Documents\Visual Studio 2017\Projects\Clinic\Clinic\bin\EntityFramework.SqlServer.dll
+C:\Users\user\Documents\Visual Studio 2017\Projects\Clinic\Clinic\bin\EntityFramework.xml
+C:\Users\user\Documents\Visual Studio 2017\Projects\Clinic\Clinic\bin\EntityFramework.SqlServer.xml
+C:\Users\user\Documents\Visual Studio 2017\Projects\Clinic\Clinic\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\user\Documents\Visual Studio 2017\Projects\Clinic\Clinic\bin\ClinicStorage.dll.config
+C:\Users\worka\Desktop\Clinic\Clinic\bin\ApplicationInsights.config
+C:\Users\worka\Desktop\Clinic\Clinic\bin\Clinic.dll.config
+C:\Users\worka\Desktop\Clinic\Clinic\bin\Clinic.dll
+C:\Users\worka\Desktop\Clinic\Clinic\bin\Clinic.pdb
+C:\Users\worka\Desktop\Clinic\Clinic\bin\roslyn\csc.exe
+C:\Users\worka\Desktop\Clinic\Clinic\bin\roslyn\csc.exe.config
+C:\Users\worka\Desktop\Clinic\Clinic\bin\roslyn\csc.rsp
+C:\Users\worka\Desktop\Clinic\Clinic\bin\roslyn\csi.exe
+C:\Users\worka\Desktop\Clinic\Clinic\bin\roslyn\csi.exe.config
+C:\Users\worka\Desktop\Clinic\Clinic\bin\roslyn\csi.rsp
+C:\Users\worka\Desktop\Clinic\Clinic\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\worka\Desktop\Clinic\Clinic\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\worka\Desktop\Clinic\Clinic\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\worka\Desktop\Clinic\Clinic\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\worka\Desktop\Clinic\Clinic\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\worka\Desktop\Clinic\Clinic\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\worka\Desktop\Clinic\Clinic\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\worka\Desktop\Clinic\Clinic\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\worka\Desktop\Clinic\Clinic\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\worka\Desktop\Clinic\Clinic\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\worka\Desktop\Clinic\Clinic\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\worka\Desktop\Clinic\Clinic\bin\roslyn\System.AppContext.dll
+C:\Users\worka\Desktop\Clinic\Clinic\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\worka\Desktop\Clinic\Clinic\bin\roslyn\System.Console.dll
+C:\Users\worka\Desktop\Clinic\Clinic\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\worka\Desktop\Clinic\Clinic\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\worka\Desktop\Clinic\Clinic\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\worka\Desktop\Clinic\Clinic\bin\roslyn\System.IO.Compression.dll
+C:\Users\worka\Desktop\Clinic\Clinic\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\worka\Desktop\Clinic\Clinic\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\worka\Desktop\Clinic\Clinic\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\worka\Desktop\Clinic\Clinic\bin\roslyn\System.IO.Pipes.dll
+C:\Users\worka\Desktop\Clinic\Clinic\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\worka\Desktop\Clinic\Clinic\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\worka\Desktop\Clinic\Clinic\bin\roslyn\System.Security.Claims.dll
+C:\Users\worka\Desktop\Clinic\Clinic\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\worka\Desktop\Clinic\Clinic\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\worka\Desktop\Clinic\Clinic\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\worka\Desktop\Clinic\Clinic\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\worka\Desktop\Clinic\Clinic\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\worka\Desktop\Clinic\Clinic\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\worka\Desktop\Clinic\Clinic\bin\roslyn\System.Threading.Thread.dll
+C:\Users\worka\Desktop\Clinic\Clinic\bin\roslyn\System.ValueTuple.dll
+C:\Users\worka\Desktop\Clinic\Clinic\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\worka\Desktop\Clinic\Clinic\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\worka\Desktop\Clinic\Clinic\bin\roslyn\System.Xml.XPath.dll
+C:\Users\worka\Desktop\Clinic\Clinic\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\worka\Desktop\Clinic\Clinic\bin\roslyn\vbc.exe
+C:\Users\worka\Desktop\Clinic\Clinic\bin\roslyn\vbc.exe.config
+C:\Users\worka\Desktop\Clinic\Clinic\bin\roslyn\vbc.rsp
+C:\Users\worka\Desktop\Clinic\Clinic\bin\roslyn\VBCSCompiler.exe
+C:\Users\worka\Desktop\Clinic\Clinic\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\worka\Desktop\Clinic\Clinic\bin\Microsoft.Win32.Primitives.dll
+C:\Users\worka\Desktop\Clinic\Clinic\bin\netstandard.dll
+C:\Users\worka\Desktop\Clinic\Clinic\bin\System.AppContext.dll
+C:\Users\worka\Desktop\Clinic\Clinic\bin\System.Collections.Concurrent.dll
+C:\Users\worka\Desktop\Clinic\Clinic\bin\System.Collections.dll
+C:\Users\worka\Desktop\Clinic\Clinic\bin\System.Collections.NonGeneric.dll
+C:\Users\worka\Desktop\Clinic\Clinic\bin\System.Collections.Specialized.dll
+C:\Users\worka\Desktop\Clinic\Clinic\bin\System.ComponentModel.dll
+C:\Users\worka\Desktop\Clinic\Clinic\bin\System.ComponentModel.EventBasedAsync.dll
+C:\Users\worka\Desktop\Clinic\Clinic\bin\System.ComponentModel.Primitives.dll
+C:\Users\worka\Desktop\Clinic\Clinic\bin\System.ComponentModel.TypeConverter.dll
+C:\Users\worka\Desktop\Clinic\Clinic\bin\System.Console.dll
+C:\Users\worka\Desktop\Clinic\Clinic\bin\System.Data.Common.dll
+C:\Users\worka\Desktop\Clinic\Clinic\bin\System.Diagnostics.Contracts.dll
+C:\Users\worka\Desktop\Clinic\Clinic\bin\System.Diagnostics.Debug.dll
+C:\Users\worka\Desktop\Clinic\Clinic\bin\System.Diagnostics.FileVersionInfo.dll
+C:\Users\worka\Desktop\Clinic\Clinic\bin\System.Diagnostics.Process.dll
+C:\Users\worka\Desktop\Clinic\Clinic\bin\System.Diagnostics.StackTrace.dll
+C:\Users\worka\Desktop\Clinic\Clinic\bin\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\worka\Desktop\Clinic\Clinic\bin\System.Diagnostics.Tools.dll
+C:\Users\worka\Desktop\Clinic\Clinic\bin\System.Diagnostics.TraceSource.dll
+C:\Users\worka\Desktop\Clinic\Clinic\bin\System.Diagnostics.Tracing.dll
+C:\Users\worka\Desktop\Clinic\Clinic\bin\System.Drawing.Primitives.dll
+C:\Users\worka\Desktop\Clinic\Clinic\bin\System.Dynamic.Runtime.dll
+C:\Users\worka\Desktop\Clinic\Clinic\bin\System.Globalization.Calendars.dll
+C:\Users\worka\Desktop\Clinic\Clinic\bin\System.Globalization.dll
+C:\Users\worka\Desktop\Clinic\Clinic\bin\System.Globalization.Extensions.dll
+C:\Users\worka\Desktop\Clinic\Clinic\bin\System.IO.Compression.dll
+C:\Users\worka\Desktop\Clinic\Clinic\bin\System.IO.Compression.ZipFile.dll
+C:\Users\worka\Desktop\Clinic\Clinic\bin\System.IO.dll
+C:\Users\worka\Desktop\Clinic\Clinic\bin\System.IO.FileSystem.dll
+C:\Users\worka\Desktop\Clinic\Clinic\bin\System.IO.FileSystem.DriveInfo.dll
+C:\Users\worka\Desktop\Clinic\Clinic\bin\System.IO.FileSystem.Primitives.dll
+C:\Users\worka\Desktop\Clinic\Clinic\bin\System.IO.FileSystem.Watcher.dll
+C:\Users\worka\Desktop\Clinic\Clinic\bin\System.IO.IsolatedStorage.dll
+C:\Users\worka\Desktop\Clinic\Clinic\bin\System.IO.MemoryMappedFiles.dll
+C:\Users\worka\Desktop\Clinic\Clinic\bin\System.IO.Pipes.dll
+C:\Users\worka\Desktop\Clinic\Clinic\bin\System.IO.UnmanagedMemoryStream.dll
+C:\Users\worka\Desktop\Clinic\Clinic\bin\System.Linq.dll
+C:\Users\worka\Desktop\Clinic\Clinic\bin\System.Linq.Expressions.dll
+C:\Users\worka\Desktop\Clinic\Clinic\bin\System.Linq.Parallel.dll
+C:\Users\worka\Desktop\Clinic\Clinic\bin\System.Linq.Queryable.dll
+C:\Users\worka\Desktop\Clinic\Clinic\bin\System.Net.Http.dll
+C:\Users\worka\Desktop\Clinic\Clinic\bin\System.Net.NameResolution.dll
+C:\Users\worka\Desktop\Clinic\Clinic\bin\System.Net.NetworkInformation.dll
+C:\Users\worka\Desktop\Clinic\Clinic\bin\System.Net.Ping.dll
+C:\Users\worka\Desktop\Clinic\Clinic\bin\System.Net.Primitives.dll
+C:\Users\worka\Desktop\Clinic\Clinic\bin\System.Net.Requests.dll
+C:\Users\worka\Desktop\Clinic\Clinic\bin\System.Net.Security.dll
+C:\Users\worka\Desktop\Clinic\Clinic\bin\System.Net.Sockets.dll
+C:\Users\worka\Desktop\Clinic\Clinic\bin\System.Net.WebHeaderCollection.dll
+C:\Users\worka\Desktop\Clinic\Clinic\bin\System.Net.WebSockets.Client.dll
+C:\Users\worka\Desktop\Clinic\Clinic\bin\System.Net.WebSockets.dll
+C:\Users\worka\Desktop\Clinic\Clinic\bin\System.ObjectModel.dll
+C:\Users\worka\Desktop\Clinic\Clinic\bin\System.Reflection.dll
+C:\Users\worka\Desktop\Clinic\Clinic\bin\System.Reflection.Extensions.dll
+C:\Users\worka\Desktop\Clinic\Clinic\bin\System.Reflection.Primitives.dll
+C:\Users\worka\Desktop\Clinic\Clinic\bin\System.Resources.Reader.dll
+C:\Users\worka\Desktop\Clinic\Clinic\bin\System.Resources.ResourceManager.dll
+C:\Users\worka\Desktop\Clinic\Clinic\bin\System.Resources.Writer.dll
+C:\Users\worka\Desktop\Clinic\Clinic\bin\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\worka\Desktop\Clinic\Clinic\bin\System.Runtime.dll
+C:\Users\worka\Desktop\Clinic\Clinic\bin\System.Runtime.Extensions.dll
+C:\Users\worka\Desktop\Clinic\Clinic\bin\System.Runtime.Handles.dll
+C:\Users\worka\Desktop\Clinic\Clinic\bin\System.Runtime.InteropServices.dll
+C:\Users\worka\Desktop\Clinic\Clinic\bin\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\worka\Desktop\Clinic\Clinic\bin\System.Runtime.Numerics.dll
+C:\Users\worka\Desktop\Clinic\Clinic\bin\System.Runtime.Serialization.Formatters.dll
+C:\Users\worka\Desktop\Clinic\Clinic\bin\System.Runtime.Serialization.Json.dll
+C:\Users\worka\Desktop\Clinic\Clinic\bin\System.Runtime.Serialization.Primitives.dll
+C:\Users\worka\Desktop\Clinic\Clinic\bin\System.Runtime.Serialization.Xml.dll
+C:\Users\worka\Desktop\Clinic\Clinic\bin\System.Security.Claims.dll
+C:\Users\worka\Desktop\Clinic\Clinic\bin\System.Security.Cryptography.Algorithms.dll
+C:\Users\worka\Desktop\Clinic\Clinic\bin\System.Security.Cryptography.Csp.dll
+C:\Users\worka\Desktop\Clinic\Clinic\bin\System.Security.Cryptography.Encoding.dll
+C:\Users\worka\Desktop\Clinic\Clinic\bin\System.Security.Cryptography.Primitives.dll
+C:\Users\worka\Desktop\Clinic\Clinic\bin\System.Security.Cryptography.X509Certificates.dll
+C:\Users\worka\Desktop\Clinic\Clinic\bin\System.Security.Principal.dll
+C:\Users\worka\Desktop\Clinic\Clinic\bin\System.Security.SecureString.dll
+C:\Users\worka\Desktop\Clinic\Clinic\bin\System.Text.Encoding.dll
+C:\Users\worka\Desktop\Clinic\Clinic\bin\System.Text.Encoding.Extensions.dll
+C:\Users\worka\Desktop\Clinic\Clinic\bin\System.Text.RegularExpressions.dll
+C:\Users\worka\Desktop\Clinic\Clinic\bin\System.Threading.dll
+C:\Users\worka\Desktop\Clinic\Clinic\bin\System.Threading.Overlapped.dll
+C:\Users\worka\Desktop\Clinic\Clinic\bin\System.Threading.Tasks.dll
+C:\Users\worka\Desktop\Clinic\Clinic\bin\System.Threading.Tasks.Parallel.dll
+C:\Users\worka\Desktop\Clinic\Clinic\bin\System.Threading.Thread.dll
+C:\Users\worka\Desktop\Clinic\Clinic\bin\System.Threading.ThreadPool.dll
+C:\Users\worka\Desktop\Clinic\Clinic\bin\System.Threading.Timer.dll
+C:\Users\worka\Desktop\Clinic\Clinic\bin\System.ValueTuple.dll
+C:\Users\worka\Desktop\Clinic\Clinic\bin\System.Xml.ReaderWriter.dll
+C:\Users\worka\Desktop\Clinic\Clinic\bin\System.Xml.XDocument.dll
+C:\Users\worka\Desktop\Clinic\Clinic\bin\System.Xml.XmlDocument.dll
+C:\Users\worka\Desktop\Clinic\Clinic\bin\System.Xml.XmlSerializer.dll
+C:\Users\worka\Desktop\Clinic\Clinic\bin\System.Xml.XPath.dll
+C:\Users\worka\Desktop\Clinic\Clinic\bin\System.Xml.XPath.XDocument.dll
+C:\Users\worka\Desktop\Clinic\Clinic\bin\Antlr3.Runtime.dll
+C:\Users\worka\Desktop\Clinic\Clinic\bin\ClinicStorage.dll
+C:\Users\worka\Desktop\Clinic\Clinic\bin\EntityFramework.dll
+C:\Users\worka\Desktop\Clinic\Clinic\bin\EntityFramework.SqlServer.dll
+C:\Users\worka\Desktop\Clinic\Clinic\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\worka\Desktop\Clinic\Clinic\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\worka\Desktop\Clinic\Clinic\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\worka\Desktop\Clinic\Clinic\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\worka\Desktop\Clinic\Clinic\bin\Microsoft.AI.Web.dll
+C:\Users\worka\Desktop\Clinic\Clinic\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\worka\Desktop\Clinic\Clinic\bin\Microsoft.ApplicationInsights.dll
+C:\Users\worka\Desktop\Clinic\Clinic\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\worka\Desktop\Clinic\Clinic\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\worka\Desktop\Clinic\Clinic\bin\Newtonsoft.Json.dll
+C:\Users\worka\Desktop\Clinic\Clinic\bin\System.Web.Helpers.dll
+C:\Users\worka\Desktop\Clinic\Clinic\bin\System.Web.Mvc.dll
+C:\Users\worka\Desktop\Clinic\Clinic\bin\System.Web.Optimization.dll
+C:\Users\worka\Desktop\Clinic\Clinic\bin\System.Web.Razor.dll
+C:\Users\worka\Desktop\Clinic\Clinic\bin\System.Web.WebPages.Deployment.dll
+C:\Users\worka\Desktop\Clinic\Clinic\bin\System.Web.WebPages.dll
+C:\Users\worka\Desktop\Clinic\Clinic\bin\System.Web.WebPages.Razor.dll
+C:\Users\worka\Desktop\Clinic\Clinic\bin\WebGrease.dll
+C:\Users\worka\Desktop\Clinic\Clinic\bin\ClinicStorage.pdb
+C:\Users\worka\Desktop\Clinic\Clinic\bin\ClinicStorage.dll.config
+C:\Users\worka\Desktop\Clinic\Clinic\bin\EntityFramework.xml
+C:\Users\worka\Desktop\Clinic\Clinic\bin\EntityFramework.SqlServer.xml
+C:\Users\worka\Desktop\Clinic\Clinic\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\worka\Desktop\Clinic\Clinic\bin\System.Web.Helpers.xml
+C:\Users\worka\Desktop\Clinic\Clinic\bin\System.Web.Mvc.xml
+C:\Users\worka\Desktop\Clinic\Clinic\bin\System.Web.Optimization.xml
+C:\Users\worka\Desktop\Clinic\Clinic\bin\System.Web.Razor.xml
+C:\Users\worka\Desktop\Clinic\Clinic\bin\System.Web.WebPages.xml
+C:\Users\worka\Desktop\Clinic\Clinic\bin\System.Web.WebPages.Deployment.xml
+C:\Users\worka\Desktop\Clinic\Clinic\bin\System.Web.WebPages.Razor.xml
+C:\Users\worka\Desktop\Clinic\Clinic\bin\Antlr3.Runtime.pdb
+C:\Users\worka\Desktop\Clinic\Clinic\bin\Newtonsoft.Json.xml
+C:\Users\worka\Desktop\Clinic\Clinic\bin\Microsoft.ApplicationInsights.xml
+C:\Users\worka\Desktop\Clinic\Clinic\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\worka\Desktop\Clinic\Clinic\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\worka\Desktop\Clinic\Clinic\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\worka\Desktop\Clinic\Clinic\bin\Microsoft.AI.Web.xml
+C:\Users\worka\Desktop\Clinic\Clinic\bin\ru\System.Web.Helpers.resources.dll
+C:\Users\worka\Desktop\Clinic\Clinic\bin\ru\System.Web.Mvc.resources.dll
+C:\Users\worka\Desktop\Clinic\Clinic\bin\ru\System.Web.Optimization.resources.dll
+C:\Users\worka\Desktop\Clinic\Clinic\bin\ru\System.Web.Razor.resources.dll
+C:\Users\worka\Desktop\Clinic\Clinic\bin\ru\System.Web.WebPages.resources.dll
+C:\Users\worka\Desktop\Clinic\Clinic\bin\ru\System.Web.WebPages.Deployment.resources.dll
+C:\Users\worka\Desktop\Clinic\Clinic\bin\ru\System.Web.WebPages.Razor.resources.dll
+C:\Users\worka\Desktop\Clinic\Clinic\obj\Debug\Clinic.csprojAssemblyReference.cache
+C:\Users\worka\Desktop\Clinic\Clinic\obj\Debug\Clinic.csproj.CopyComplete
+C:\Users\worka\Desktop\Clinic\Clinic\obj\Debug\Clinic.dll
+C:\Users\worka\Desktop\Clinic\Clinic\obj\Debug\Clinic.pdb

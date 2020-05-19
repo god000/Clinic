@@ -1,0 +1,28 @@
+﻿@model ClinicStorage.Models.TimeTable
+@{
+    ViewBag.Title = "ChangeSheldure";
+}
+
+<h2>Изменение расписания</h2>
+
+@using (Html.BeginForm())
+{
+    @Html.HiddenFor(model => model.Id)
+
+    @Html.LabelFor(model => model.Doctor.Name, "Имя доктора")
+    <br />
+    @Html.DisplayFor(model => model.Doctor.Name)
+    <br /><br />
+    @Html.LabelFor(model => model.TimeOfVisit, "Время одного приема")
+    <br />
+    @Html.DropDownListFor(model => model.TimeOfVisit, ViewBag.visitTimes as SelectList)
+    <br /><br />
+    @Html.LabelFor(model => model.TimeStart, "Начало приема")
+    <br />
+    @Html.DropDownListFor(model => model.TimeStart, ViewBag.FreeTimes as SelectList)
+    <br /><br />
+    @Html.LabelFor(model => model.TimeEnd, "Конец приема")
+    <br />
+    @Html.DropDownListFor(model => model.TimeEnd, ViewBag.FreeTimes as SelectList)
+    <input type="submit" value="Добавить" />
+}

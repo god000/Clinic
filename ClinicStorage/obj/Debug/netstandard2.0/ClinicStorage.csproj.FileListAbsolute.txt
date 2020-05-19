@@ -1,0 +1,21 @@
+C:\Users\user\Documents\Visual Studio 2017\Projects\Clinic\ClinicStorage\bin\Debug\netstandard2.0\ClinicStorage.deps.json
+C:\Users\user\Documents\Visual Studio 2017\Projects\Clinic\ClinicStorage\bin\Debug\netstandard2.0\ClinicStorage.dll
+C:\Users\user\Documents\Visual Studio 2017\Projects\Clinic\ClinicStorage\obj\Debug\netstandard2.0\ClinicStorage.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\Visual Studio 2017\Projects\Clinic\ClinicStorage\obj\Debug\netstandard2.0\ClinicStorage.AssemblyInfoInputs.cache
+C:\Users\user\Documents\Visual Studio 2017\Projects\Clinic\ClinicStorage\obj\Debug\netstandard2.0\ClinicStorage.AssemblyInfo.cs
+C:\Users\user\Documents\Visual Studio 2017\Projects\Clinic\ClinicStorage\bin\Debug\netstandard2.0\ClinicStorage.pdb
+C:\Users\user\Documents\Visual Studio 2017\Projects\Clinic\ClinicStorage\obj\Debug\netstandard2.0\ClinicStorage.dll
+C:\Users\user\Documents\Visual Studio 2017\Projects\Clinic\ClinicStorage\obj\Debug\netstandard2.0\ClinicStorage.pdb
+C:\Users\user\Documents\Visual Studio 2017\Projects\Clinic\ClinicStorage\bin\Debug\netstandard2.0\ClinicStorage.dll.config
+C:\Users\user\Documents\Visual Studio 2017\Projects\Clinic\ClinicStorage\bin\Debug\netstandard2.0\System.configuration.dll
+C:\Users\user\Documents\Visual Studio 2017\Projects\Clinic\ClinicStorage\obj\Debug\netstandard2.0\ClinicStorage.csproj.CopyComplete
+C:\Users\user\Documents\Visual Studio 2017\Projects\Clinic\ClinicStorage\obj\Debug\netstandard2.0\ClinicStorage.csprojResolveAssemblyReference.cache
+C:\Users\worka\Desktop\Clinic\ClinicStorage\bin\Debug\netstandard2.0\ClinicStorage.dll.config
+C:\Users\worka\Desktop\Clinic\ClinicStorage\bin\Debug\netstandard2.0\ClinicStorage.deps.json
+C:\Users\worka\Desktop\Clinic\ClinicStorage\bin\Debug\netstandard2.0\ClinicStorage.dll
+C:\Users\worka\Desktop\Clinic\ClinicStorage\bin\Debug\netstandard2.0\ClinicStorage.pdb
+C:\Users\worka\Desktop\Clinic\ClinicStorage\obj\Debug\netstandard2.0\ClinicStorage.csprojAssemblyReference.cache
+C:\Users\worka\Desktop\Clinic\ClinicStorage\obj\Debug\netstandard2.0\ClinicStorage.AssemblyInfoInputs.cache
+C:\Users\worka\Desktop\Clinic\ClinicStorage\obj\Debug\netstandard2.0\ClinicStorage.AssemblyInfo.cs
+C:\Users\worka\Desktop\Clinic\ClinicStorage\obj\Debug\netstandard2.0\ClinicStorage.dll
+C:\Users\worka\Desktop\Clinic\ClinicStorage\obj\Debug\netstandard2.0\ClinicStorage.pdb

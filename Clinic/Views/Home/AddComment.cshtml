@@ -1,0 +1,36 @@
+﻿@model ClinicStorage.Models.Visitor
+@{
+    ViewBag.Title = "AddComment";
+}
+
+<h2>Формирование Диагноза</h2>
+
+@using (Html.BeginForm())
+{
+    @Html.HiddenFor(model => model.Doctor.Id)
+    @Html.HiddenFor(model => model.Date)
+    @Html.HiddenFor(model => model.Name)
+    @Html.HiddenFor(model => model.Time)
+
+    @Html.LabelFor(model => model.Doctor.Name, "Имя доктора")
+    <br />
+    @Html.DisplayFor(model => model.Doctor.Name)
+    <br /><br />
+    @Html.LabelFor(model => model.Date, "Дата приема")
+    <br />
+    @Html.DisplayFor(model => model.Date)
+    <br /><br />
+    @Html.LabelFor(model => model.Name, "Имя пациента")
+    <br />
+    @Html.DisplayFor(model => model.Name)
+    <br /><br />
+    @Html.LabelFor(model => model.Time, "Время приема")
+    <br />
+    @Html.DisplayFor(model => model.Time)
+    <br /><br />
+    @Html.LabelFor(model => model.Comment, "Время приема")
+    <br />
+    @Html.EditorFor(model => model.Comment)
+
+    <input type="submit" value="Добавить" />
+}

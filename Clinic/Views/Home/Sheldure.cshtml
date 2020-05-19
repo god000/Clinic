@@ -1,0 +1,26 @@
+﻿@model IEnumerable<ClinicStorage.Models.TimeTable>
+@{
+    ViewBag.Title = "ForClients";
+}
+
+<h2>Расписание приема</h2>
+
+<table>
+    <tr class="header">
+        <td><p>Доктор</p></td>
+        <td><p>Начало приема</p></td>
+        <td><p>Конец приема</p></td>
+        <td><p>Время одного приема</p></td>
+        <td></td>
+    </tr>
+    @foreach (ClinicStorage.Models.TimeTable v in Model)
+    {
+    <tr>
+        <td><p>@v.Doctor.Name</p></td>
+        <td><p>@v.TimeStart</p></td>
+        <td><p>@v.TimeEnd</p></td>
+        <td><p>@v.TimeOfVisit</p></td>
+        <td><p>@Html.ActionLink("Изменить часы приема", "ChangeSheldure", "Home", new { id = @v.Id }, null)</p></td>
+    </tr>
+    }
+</table>

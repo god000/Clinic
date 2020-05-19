@@ -1,0 +1,29 @@
+﻿@model ClinicStorage.Models.Visitor
+@{
+    ViewBag.Title = "MakeAppointment";
+}
+
+<h2>Записаться на прием</h2>
+
+@using (Html.BeginForm())
+{
+    @Html.HiddenFor(model => model.Doctor.Id)
+    @Html.HiddenFor(model => model.Date)
+
+    @Html.LabelFor(model => model.Doctor.Name, "Имя доктора")
+    <br />
+    @Html.DisplayFor(model => model.Doctor.Name)
+    <br /><br />
+    @Html.LabelFor(model => model.Date, "Дата приема")
+    <br />
+    @Html.DisplayFor(model => model.Date)
+    <br /><br />
+    @Html.LabelFor(model => model.Name, "Имя пациента")
+    <br />
+    @Html.EditorFor(model => model.Name)
+    <br /><br />
+    @Html.LabelFor(model => model.Time, "Время приема")
+    <br />
+    @Html.DropDownListFor(model => model.Time, ViewBag.FreeTimes as SelectList)
+    <input type="submit" value="Добавить" />
+}

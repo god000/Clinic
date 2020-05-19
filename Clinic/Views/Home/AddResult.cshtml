@@ -1,0 +1,28 @@
+﻿@model IEnumerable<ClinicStorage.Models.Visitor>
+@{
+    ViewBag.Title = "ForClients";
+}
+
+<h2>Клиенты больницы</h2>
+
+<table>
+    <tr class="header">
+        <td><p>Доктор</p></td>
+        <td><p>Имя пациента</p></td>
+        <td><p>Дата приема</p></td>
+        <td><p>Время приема</p></td>
+        <td><p>Диагноз</p></td>
+        <td></td>
+    </tr>
+    @foreach (ClinicStorage.Models.Visitor v in Model)
+    {
+    <tr>
+        <td><p>@v.Doctor.Name</p></td>
+        <td><p>@v.Name</p></td>
+        <td><p>@v.Date</p></td>
+        <td><p>@v.Time</p></td>
+        <td><p>@v.Comment</p></td>
+        <td><p>@Html.ActionLink("Добавить диагноз", "AddComment", "Home", new { id = @v.Id }, null)</p></td>
+    </tr>
+    }
+</table>
